@@ -1,1 +1,3 @@
-I am learning git and github.
+I am suthan.
+leraning javascript 
+I like to be a fullstack devolper
